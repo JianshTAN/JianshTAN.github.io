@@ -4,29 +4,25 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="JianShengTAN.jpg" class="floatpic" width="380" height="380">
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.
+我叫 **谭建生**。我毕业于东北林业大学，主修交通工程，并在香港城市大学获得了建筑与土木工程的硕士学位。自2020年以来，我在金茂商业房地产（上海）有限公司担任计划运营主管，负责综合体商业改造筹备、开业、经营全周期工作。我拥有优秀的PPT撰写能力、良好的数据分析技能，熟练使用autoCAD、xmind，并且熟悉Python和Photoshop。此外，我还通过了英语CET-6考试，雅思成绩为6.5。
 
-I am a senior undergrad majoring in **EECS** at Fuzhou University and Maynooth University (Combined degrees). Currently, I serve as a research assistant at the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu) and [Dr. Meng Yuan](https://www.researchgate.net/profile/Meng-Yuan-4). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/)'s team at Cambridge University. Recently, I have been selected as an **AAAI UC Scholar**.
-
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
+Hello, my name is **JianSheng Tan**. I graduated from Northeast Forestry University with a major in Traffic Engineering and earned a Master's degree in Civil and Structural Engineering from City University of Hong Kong. Since 2020, I have been working as a Planning and Operations Manager at Jinmao Commercial Real Estate (Shanghai) Co., Ltd., where I am involved in the entire cycle of commercial complex renovation, opening, and operations. I possess excellent skills in PPT creation, good data analysis capabilities, and am proficient in autoCAD and xmind, with familiarity in Python and Photoshop. Additionally, I have passed the CET-6 English exam and achieved a 6.5 in IELTS.
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
 
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - June 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Exchange)
+- **Sep 2014 - June 2018:** Northeast Forestry University (BEng)
+- **Sep 2018 - Nov 2019:** City University of HongKong (BSc)
 
-Expect to apply for a one-year MPhil program and will graduate in Sep 2025. Looking for PhD position after that.
+
 
 <br>
 
 ---
 
-## Research Interests
+<!--## Research Interests
 
 - Internet of Everything (IoE)
 - Industrial Automation

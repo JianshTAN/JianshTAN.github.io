@@ -38,17 +38,17 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 links:
   - title: About Me
     url: /
-  - title: Publications
-    url: /publications/
-  - title: Awards
-    url: /awards/
-  - title: Teams
-    url: /teams/
-  - title: Hobbies
-    url: /hobbies/
+  #- title: Publications
+  #  url: /publications/
+  #- title: Awards
+  #  url: /awards/
+  #- title: Teams
+  #  url: /teams/
+  #- title: Hobbies
+  #  url: /hobbies/
   # - title: Notes
-    # url: /notes/
-  - title: Blogs
+  #  # url: /notes/
+  #- title: Blogs
     url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
